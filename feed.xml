@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>News from Ambient Technologies (techambient)</title>
+    <link>https://techambient.github.io/rss-feed/</link>
+    <description>Short, punchy updates about techambient.</description>
+    
+    <item>
+      <title>The Free & Open Source AI Chatbot</title>
+      <link>https://techambient.github.io/TalkVXR/</link>
+      <guid>https://techambient.github.io/rss-feed/#1</guid>
+      <pubDate>Sat, 10 Oct 2026 12:00:00 GMT</pubDate>
+      <description>Introducing our free & open source AI chatbot, named as TalkVXR, fully powered by TalkVXR v1 Flash model.</description>
+    </item>
+  </channel>
+</rss>
